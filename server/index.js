@@ -14,7 +14,7 @@ const jwt = require('jsonwebtoken');
 const app = express()
 app.use(express.json())
 app.use(cors({
-    origin: ['http://localhost:5173', process.env.FRONTEND_URL],
+    origin: ['http://localhost:5173', 'https://merry-peony-faa121.netlify.app'],
     credentials: true
 }))
 app.use(morgan('combined'))
