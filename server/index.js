@@ -76,7 +76,8 @@ app.post('/api/v1/auth', async (req, res) => {
 
         res.cookie('token', token, {
             httpOnly: true,
-            secure: process.env.NODE_ENV === "production"
+            secure: process.env.NODE_ENV === "production",
+            sameSite: process.env.NODE_ENV === "production" ? "none" : "strict",
         }).send({
             message: 'User authenticated',
             token: token
@@ -91,7 +92,8 @@ app.post('/api/v1/logout', async (req, res) => {
     try {
         res.clearCookie('token', {
             httpOnly: true,
-            secure: process.env.NODE_ENV === "production"
+            secure: process.env.NODE_ENV === "production",
+            sameSite: process.env.NODE_ENV === "production" ? "none" : "strict",
         })
 
         res.send({ message: 'User logged out' });
