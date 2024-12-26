@@ -76,8 +76,7 @@ app.post('/api/v1/auth', async (req, res) => {
 
         res.cookie('token', token, {
             httpOnly: true,
-            secure: process.env.NODE_ENV === "production",
-            sameSite: process.env.NODE_ENV === "production" ? "none" : "strict",
+            secure: false
         }).send({
             message: 'User authenticated',
             token: token
@@ -92,8 +91,7 @@ app.post('/api/v1/logout', async (req, res) => {
     try {
         res.clearCookie('token', {
             httpOnly: true,
-            secure: process.env.NODE_ENV === "production",
-            sameSite: process.env.NODE_ENV === "production" ? "none" : "strict",
+            secure: false
         })
 
         res.send({ message: 'User logged out' });
@@ -273,6 +271,7 @@ app.post('/api/v1/add-food', verifyToken, async (req, res) => {
         }
 
         const food = await Food.create({
+            _id: new mongoose.Types.ObjectId(),
             foodName: data.foodName,
             foodImage: data.foodImageURL,
             foodCategory: data.foodCategory,
