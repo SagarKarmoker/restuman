@@ -1,0 +1,411 @@
+[
+    {
+        "addBy": {
+            "name": "John Doe",
+            "email": "johndoe@example.com"
+        },
+        "_id": "676862b46a2c386d6f436890",
+        "foodName": "Margherita Pizza",
+        "foodImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+        "foodCategory": "Vegetarian",
+        "quantity": 50,
+        "price": 12.99,
+        "foodOrigin": "Italy",
+        "shortDescription": "A classic pizza with fresh mozzarella, tomatoes, and basil.",
+        "purchaseCount": 20,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Jane Smith",
+            "email": "janesmith@example.com"
+        },
+        "_id": "676862b46a2c386d6f436891",
+        "foodName": "Pepperoni Pizza",
+        "foodImage": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 50,
+        "price": 14.99,
+        "foodOrigin": "USA",
+        "shortDescription": "A delicious pizza topped with pepperoni and mozzarella cheese.",
+        "purchaseCount": 200,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Alice Johnson",
+            "email": "alicejohnson@example.com"
+        },
+        "_id": "676862b46a2c386d6f436892",
+        "foodName": "Vegan Burger",
+        "foodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFE1Pzv4rXBOLQ4icEEkdfHMu8QCDEnoRKMA&s",
+        "foodCategory": "Vegan",
+        "quantity": 25,
+        "price": 11.99,
+        "foodOrigin": "USA",
+        "shortDescription": "A plant-based patty served with lettuce, tomato, and vegan mayo.",
+        "purchaseCount": 60,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Bob Brown",
+            "email": "bobbrown@example.com"
+        },
+        "_id": "676862b46a2c386d6f436893",
+        "foodName": "Grilled Chicken Sandwich",
+        "foodImage": "https://thefamilydinnerproject.org/wp-content/uploads/2014/07/Easy-grilled-chicken-sandwich.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 70,
+        "price": 13.99,
+        "foodOrigin": "USA",
+        "shortDescription": "A tender grilled chicken breast with lettuce, tomato, and mayo.",
+        "purchaseCount": 150,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Carlos Gomez",
+            "email": "carlosgomez@example.com"
+        },
+        "_id": "676862b46a2c386d6f436894",
+        "foodName": "Vegetable Samosa",
+        "foodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCbpmeCncM1GPk4jh0uzpvf16o6-y6v_B8g&s",
+        "foodCategory": "Vegetarian",
+        "quantity": 185,
+        "price": 4.99,
+        "foodOrigin": "India",
+        "shortDescription": "Crispy pastry filled with a mix of vegetables and spices.",
+        "purchaseCount": 300,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Meera Patel",
+            "email": "meerapatel@example.com"
+        },
+        "_id": "676862b46a2c386d6f436895",
+        "foodName": "Chicken Tikka Masala",
+        "foodImage": "https://www.recipetineats.com/tachyon/2018/04/Chicken-Tikka-Masala_0-SQ.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 80,
+        "price": 15.49,
+        "foodOrigin": "India",
+        "shortDescription": "Tender chicken pieces in a creamy tomato-based curry sauce.",
+        "purchaseCount": 210,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Michael Clark",
+            "email": "michaelclark@example.com"
+        },
+        "_id": "676862b46a2c386d6f436896",
+        "foodName": "Caesar Salad",
+        "foodImage": "https://www.allrecipes.com/thmb/mXZ0Tulwn3x9_YB_ZbkiTveDYFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229063-Classic-Restaurant-Caesar-Salad-ddmfs-4x3-231-89bafa5e54dd4a8c933cf2a5f9f12a6f.jpg",
+        "foodCategory": "Vegetarian",
+        "quantity": 120,
+        "price": 9.99,
+        "foodOrigin": "USA",
+        "shortDescription": "Crisp romaine lettuce, croutons, and creamy Caesar dressing.",
+        "purchaseCount": 185,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "David King",
+            "email": "davidking@example.com"
+        },
+        "_id": "676862b46a2c386d6f436897",
+        "foodName": "Burger",
+        "foodImage": "https://static01.nyt.com/images/2022/06/27/dining/kc-mushroom-beef-burgers/merlin_209008674_b3fa58fa-9bb1-4cfe-a08a-40b4dda0de78-superJumbo.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 90,
+        "price": 10.99,
+        "foodOrigin": "USA",
+        "shortDescription": "Juicy beef patty with lettuce, tomato, cheese, and mayo.",
+        "purchaseCount": 250,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Eva Turner",
+            "email": "evaturner@example.com"
+        },
+        "_id": "676862b46a2c386d6f436898",
+        "foodName": "Fish and Chips",
+        "foodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWu0R5jRbmVMTtZMWMozZ_094vlyNa3zH9Ug&s",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 65,
+        "price": 12.49,
+        "foodOrigin": "England",
+        "shortDescription": "Crispy battered fish served with golden fries.",
+        "purchaseCount": 110,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Zara Ali",
+            "email": "zaraali@example.com"
+        },
+        "_id": "676862b46a2c386d6f436899",
+        "foodName": "Falafel Wrap",
+        "foodImage": "https://avocadoskillet.com/wp-content/uploads/2022/05/IMG_3807_2_20.jpg",
+        "foodCategory": "Vegan",
+        "quantity": 150,
+        "price": 8.99,
+        "foodOrigin": "Middle East",
+        "shortDescription": "Fried chickpea balls wrapped with lettuce and tahini sauce.",
+        "purchaseCount": 300,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Olivia Wright",
+            "email": "oliviawright@example.com"
+        },
+        "_id": "676862b46a2c386d6f43689a",
+        "foodName": "Spaghetti Bolognese",
+        "foodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHbABq3e7SYplSx-5R-TYEHNBL91lZsVgDw&s",
+        "foodCategory": "Vegetarian",
+        "quantity": 85,
+        "price": 13.49,
+        "foodOrigin": "Italy",
+        "shortDescription": "Pasta served with a rich, meaty tomato sauce.",
+        "purchaseCount": 210,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Maya Khan",
+            "email": "mayakhan@example.com"
+        },
+        "_id": "676862b46a2c386d6f43689b",
+        "foodName": "Shawarma",
+        "foodImage": "https://insanelygoodrecipes.com/wp-content/uploads/2024/07/Chicken-Shawarma-3.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 120,
+        "price": 10.99,
+        "foodOrigin": "Middle East",
+        "shortDescription": "Spiced lamb or chicken wrapped in pita with garlic sauce.",
+        "purchaseCount": 180,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Ravi Singh",
+            "email": "ravisingh@example.com"
+        },
+        "_id": "676862b46a2c386d6f43689c",
+        "foodName": "Lamb Kebab",
+        "foodImage": "https://cookingorgeous.com/wp-content/uploads/2021/06/lamb-shish-kebab-20.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 60,
+        "price": 16.99,
+        "foodOrigin": "Turkey",
+        "shortDescription": "Grilled lamb skewers served with rice and vegetables.",
+        "purchaseCount": 95,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Sophia Harris",
+            "email": "sophiaharris@example.com"
+        },
+        "_id": "676862b46a2c386d6f43689d",
+        "foodName": "Pasta Primavera",
+        "foodImage": "https://images.services.kitchenstories.io/w7kIw5bZaJP6rgq3Zj_HOouUq_U=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/R2572-picnic-final-photo-4x3.jpg",
+        "foodCategory": "Vegetarian",
+        "quantity": 100,
+        "price": 12.49,
+        "foodOrigin": "Italy",
+        "shortDescription": "Pasta with fresh vegetables in a light olive oil sauce.",
+        "purchaseCount": 170,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Tom White",
+            "email": "tomwhite@example.com"
+        },
+        "_id": "676862b46a2c386d6f43689e",
+        "foodName": "Chicken Alfredo",
+        "foodImage": "https://sugarspunrun.com/wp-content/uploads/2024/02/Chicken-alfredo-recipe-1-of-1.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 75,
+        "price": 14.49,
+        "foodOrigin": "USA",
+        "shortDescription": "Creamy Alfredo sauce with grilled chicken and pasta.",
+        "purchaseCount": 210,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "James Green",
+            "email": "jamesgreen@example.com"
+        },
+        "_id": "676862b46a2c386d6f43689f",
+        "foodName": "Tofu Stir Fry",
+        "foodImage": "https://iheartvegetables.com/wp-content/uploads/2023/12/Exclusive-Cashew-Tofu-and-Vegetable-Stir-Fry-4364-Large.jpeg",
+        "foodCategory": "Vegan",
+        "quantity": 40,
+        "price": 11.49,
+        "foodOrigin": "China",
+        "shortDescription": "Stir-fried tofu with mixed vegetables in a soy sauce.",
+        "purchaseCount": 85,
+        "createdAt": "2024-12-26T04:30:44.407Z",
+        "updatedAt": "2024-12-26T04:30:44.407Z"
+    },
+    {
+        "addBy": {
+            "name": "Lucas Adams",
+            "email": "lucasadams@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a0",
+        "foodName": "Fettuccine Alfredo",
+        "foodImage": "https://www.thespruceeats.com/thmb/gTjo1gnOuBEVJsttgDW2JljvKY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shrimp-fettuccine-alfredo-recipe-5205738-hero-01-1a40571b0e3e4a17ab768b4d700c7836.jpg",
+        "foodCategory": "Vegetarian",
+        "quantity": 110,
+        "price": 13.99,
+        "foodOrigin": "Italy",
+        "shortDescription": "Classic Italian pasta with creamy Alfredo sauce.",
+        "purchaseCount": 220,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Chen Li",
+            "email": "chenli@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a1",
+        "foodName": "Peking Duck",
+        "foodImage": "https://www.seriouseats.com/thmb/5WEmtEV2Y37pU1joxKllpZ7uvDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20100910-duck-primary-43f6bb74c3b7490b9b6b99b643fd31f3.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 55,
+        "price": 17.99,
+        "foodOrigin": "China",
+        "shortDescription": "Roast duck served with thin pancakes, hoisin sauce, and scallions.",
+        "purchaseCount": 80,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Grace Young",
+            "email": "graceyoung@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a2",
+        "foodName": "Mushroom Risotto",
+        "foodImage": "https://www.connoisseurusveg.com/wp-content/uploads/2021/08/vegan-mushroom-risotto-21-sq-1-of-1.jpg",
+        "foodCategory": "Vegetarian",
+        "quantity": 95,
+        "price": 14.99,
+        "foodOrigin": "Italy",
+        "shortDescription": "Creamy risotto with fresh mushrooms and Parmesan cheese.",
+        "purchaseCount": 135,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Henry Tran",
+            "email": "henrytran@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a3",
+        "foodName": "Banh Mi",
+        "foodImage": "https://kikkomanusa.com/foodservice/wp-content/uploads/sites/2/2022/06/East-Side-Bahn-Mi_Kikkoman.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 85,
+        "price": 7.99,
+        "foodOrigin": "Vietnam",
+        "shortDescription": "Vietnamese sandwich with pickled vegetables, pork, and herbs.",
+        "purchaseCount": 130,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Laura Miller",
+            "email": "lauramiller@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a4",
+        "foodName": "Cheeseburger",
+        "foodImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/master/pass/Smashburger-recipe-120219.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 200,
+        "price": 10.99,
+        "foodOrigin": "USA",
+        "shortDescription": "Classic cheeseburger with American cheese, lettuce, and tomato.",
+        "purchaseCount": 500,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Nina Kim",
+            "email": "ninakim@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a5",
+        "foodName": "Sushi Rolls",
+        "foodImage": "https://www.heinens.com/content/uploads/2023/06/Tuna-Sushi-Rolls-800x550-1.jpg",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 60,
+        "price": 18.99,
+        "foodOrigin": "Japan",
+        "shortDescription": "Assorted sushi rolls with fish, rice, and vegetables.",
+        "purchaseCount": 150,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Victor Lee",
+            "email": "victorlee@example.com"
+        },
+        "_id": "676862b46a2c386d6f4368a6",
+        "foodName": "BBQ Ribs",
+        "foodImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEjllggmbXJPRMA1W3ho_iNPGkkE9wVKqsw&s",
+        "foodCategory": "Non-Vegetarian",
+        "quantity": 80,
+        "price": 20.49,
+        "foodOrigin": "USA",
+        "shortDescription": "Tender pork ribs coated in BBQ sauce, served with fries.",
+        "purchaseCount": 220,
+        "createdAt": "2024-12-26T04:30:44.408Z",
+        "updatedAt": "2024-12-26T04:30:44.408Z"
+    },
+    {
+        "addBy": {
+            "name": "Sagar Karmoker",
+            "email": "sagarkarmoker.official@gmail.com"
+        },
+        "_id": "676af3859e54e8dd111310d6",
+        "foodName": "Pizza",
+        "foodImage": "https://secretrecipebd.com/wp-content/uploads/2021/07/vegatable_pizza.jpg",
+        "foodCategory": "vegetarian",
+        "quantity": 1,
+        "price": 15,
+        "foodOrigin": "Bangladesh",
+        "shortDescription": "Heloo",
+        "purchaseCount": 0,
+        "createdAt": "2024-12-24T17:46:45.743Z",
+        "updatedAt": "2024-12-25T17:52:05.550Z",
+        "__v": 0
+    }
+]
